@@ -18,7 +18,11 @@ fi
 
 
 # Configure the shared Node library on the undergrad server.
-export NODE_PATH=/cs/local/generic/lib/cs304/node_modules
+# ...
+# This line was removed as it contains sensitive information about the course
+# Instructor has requested that in exchange for uploading this project any mention of the course title
+# should be removed to avoid any cheating in the future.
+# Hence, this program will not be able to execute unfortuanately without the export statement.
 
 # File path
 ENV_SERVER_PATH="./.env"

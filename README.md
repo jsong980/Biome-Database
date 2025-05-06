@@ -2,9 +2,10 @@ This project was done in collaboration with two other group members for a course
 
 Note: to be able to view the project, it must be opened on the UBC CS server. As of now we have not set up a way to view it on one local machine. 
 
-Description of the Project: 
+##Description of the Project: 
 
 #Biome Database
+
 The application aims to model the biotic and abiotic components of
 different bioregions, called biomes, in British Columbia and how they
 interact. Formally, a biome is a community of flora and fauna that occupies
